@@ -1,0 +1,9 @@
+configparser 
+PyQt5
+matplotlib
+numpy
+pandas
+xlsxwriter
+importlib
+datetime
+openpyxl
